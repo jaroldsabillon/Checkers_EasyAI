@@ -17,6 +17,7 @@ use PIP INSTALL
 	pytest
 
 
+*Included in this repo
 Requires checkers_easyAI and easyAI files found at:
 	https://github.com/Zulko/easyAI
 	https://github.com/Awannaphasch2016/checker_easyAI
